@@ -1,2 +1,3 @@
-# create-new-android-kotlin-app
-创建android-kotlin-app模板
+```sh
+python3 create-android-kotlin-app.py PROJECT_NAME APP_PACKAGE_NAME
+```
